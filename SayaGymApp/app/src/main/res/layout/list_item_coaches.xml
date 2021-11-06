@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    />
+<!--    en esta parte generamos la patantalla que mostrara los diferentes couches
+        disponibles por medio de un array string
+
+        ademas colocamos su diferentes parametros de marges
+        e implentamos su erencia con el xml que en este caso es la activity de couching
+        -->
